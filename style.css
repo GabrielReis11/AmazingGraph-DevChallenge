@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    justify-content: space-between;
+    width: auto;
+    height: 20vh;
+    border: 1px solid red;
+    align-items: center;
+    margin-left: 65px;
+    margin-right: 65px;
+   
+}
+
+.title{
+    color: #D2872C;
+}
+
+.options{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    color: #766F68;
+}
